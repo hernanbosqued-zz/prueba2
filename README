@@ -1,9 +1,9 @@
 First commit
 Second commit 
-<<<<<<< HEAD
+
 Third commit
 4
-=======
 
 modificado en el branch second_commit_brach
->>>>>>> origin/from_second_commit_branch
+
+merge retocado
