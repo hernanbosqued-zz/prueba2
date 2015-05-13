@@ -1,9 +1,21 @@
 First commit
+<<<<<<< HEAD
 Second commit 
 
+<<<<<<< HEAD
 Third commit
 4
 
 modificado en el branch second_commit_brach
 
 merge retocado
+=======
+modificado en el branch second_commit_brach
+ATLANTA
+=======
+
+from begining branch edit
+
+atlanta
+>>>>>>> origin/from_begining_branch
+>>>>>>> origin/from_second_commit_branch
